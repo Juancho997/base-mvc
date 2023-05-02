@@ -2,7 +2,7 @@
 
 ## Description
 
-Skeleton for TypeScript/MongoDB/Mongoose proyects, using the Model-View-Controller architectual pattern, Repository and Sigleton desing pattern.
+Skeleton for TypeScript/MongoDB/Mongoose proyects, using the Model-View-Controller architectual pattern, Repository desing pattern and Mappers.
 
 ## Setup
 
