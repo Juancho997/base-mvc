@@ -12,6 +12,7 @@ Skeleton for TypeScript/MongoDB/Mongoose proyects, using the Model-View-Controll
 
 3º Open a new terminal in the project root directory, type:
 
-```npm i
+```
+npm i
 npm run dev
 ```
