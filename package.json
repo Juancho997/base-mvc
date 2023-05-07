@@ -9,7 +9,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "npm run build && node build/app.js"
   },
-  "author": "",
+  "author": "https://github.com/Juancho997",
   "license": "ISC",
   "devDependencies": {
     "@types/cors": "^2.8.12",
